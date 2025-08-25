@@ -13,6 +13,8 @@
 * tasks-cli list -f in-progress
 * tasks-cli list -f done // All tasks with such status
 
-#### To start working with it, firstly install the repo, then run `go build -o tasks-cli.exe main.go` in project folder.
+#### To start working with it, firstly install the repo, `git clone https://github.com/Asylann/Basic-Todo-CLI`
+#### Then run `go build -o tasks-cli.exe main.go` in project folder.
+
 
 #### (Optional) add to Path to run cli from everywhere!
