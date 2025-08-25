@@ -1,6 +1,6 @@
 # Tasks-CLI
 
-https://github.com/Asylann/Basic-Todo-CLI
+For https://roadmap.sh/projects/task-tracker
 
 ### Description: Task tracker is a project used to track and manage your tasks.
 * Cobra was used for managing CLI work flow with all comands and flags.
